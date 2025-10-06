@@ -16,7 +16,6 @@ cursor.execute("""
     SELECT id, title, authors
     FROM books
     WHERE title LIKE '%The Great Gatsby%'
-    ORDER BY title ASC
 """)
 
 It will return:
