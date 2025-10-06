@@ -1,0 +1,24 @@
+{
+    "id": 1342,
+    "title": "Pride and Prejudice",
+    "authors": [
+        "Austen, Jane"
+    ],
+    "subjects": [
+        "Courtship -- Fiction",
+        "Domestic fiction",
+        "England -- Fiction",
+        "Love stories",
+        "Sisters -- Fiction",
+        "Social classes -- Fiction",
+        "Young women -- Fiction"
+    ],
+    "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Category: Romance",
+        "Harvard Classics"
+    ]
+}

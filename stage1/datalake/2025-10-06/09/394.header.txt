@@ -1,0 +1,19 @@
+{
+    "id": 394,
+    "title": "Cranford",
+    "authors": [
+        "Gaskell, Elizabeth Cleghorn"
+    ],
+    "subjects": [
+        "England -- Fiction",
+        "Female friendship -- Fiction",
+        "Older women -- Fiction",
+        "Pastoral fiction",
+        "Sisters -- Fiction",
+        "Villages -- Fiction"
+    ],
+    "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels"
+    ]
+}

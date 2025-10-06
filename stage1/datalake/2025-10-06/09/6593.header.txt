@@ -1,0 +1,24 @@
+{
+    "id": 6593,
+    "title": "History of Tom Jones, a Foundling",
+    "authors": [
+        "Fielding, Henry"
+    ],
+    "subjects": [
+        "Bildungsromans",
+        "England -- Fiction",
+        "Foundlings -- Fiction",
+        "Humorous stories",
+        "Identity (Psychology) -- Fiction",
+        "Young men -- Fiction"
+    ],
+    "bookshelves": [
+        "Banned Books from Anne Haight's list",
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Harvard Classics",
+        "Movie Books"
+    ]
+}

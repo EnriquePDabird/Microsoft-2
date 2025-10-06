@@ -1,0 +1,20 @@
+{
+    "id": 1259,
+    "title": "Twenty years after",
+    "authors": [
+        "Maquet, Auguste",
+        "Dumas, Alexandre"
+    ],
+    "subjects": [
+        "France -- History -- Louis XIV, 1643-1715 -- Fiction"
+    ],
+    "bookshelves": [
+        "Adventure",
+        "Category: Adventure",
+        "Category: French Literature",
+        "Category: Historical Novels",
+        "Category: Novels",
+        "Historical Fiction",
+        "Movie Books"
+    ]
+}

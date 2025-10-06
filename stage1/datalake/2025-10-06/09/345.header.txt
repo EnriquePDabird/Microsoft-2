@@ -1,0 +1,27 @@
+{
+    "id": 345,
+    "title": "Dracula",
+    "authors": [
+        "Stoker, Bram"
+    ],
+    "subjects": [
+        "Dracula, Count (Fictitious character) -- Fiction",
+        "Epistolary fiction",
+        "Gothic fiction",
+        "Horror tales",
+        "Transylvania (Romania) -- Fiction",
+        "Vampires -- Fiction",
+        "Whitby (England) -- Fiction"
+    ],
+    "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Gothic Fiction",
+        "Horror",
+        "Movie Books",
+        "Mystery Fiction"
+    ]
+}

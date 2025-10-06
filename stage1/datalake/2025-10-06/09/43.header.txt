@@ -1,0 +1,25 @@
+{
+    "id": 43,
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "authors": [
+        "Stevenson, Robert Louis"
+    ],
+    "subjects": [
+        "Horror tales",
+        "London (England) -- Fiction",
+        "Multiple personality -- Fiction",
+        "Physicians -- Fiction",
+        "Psychological fiction",
+        "Science fiction",
+        "Self-experimentation in medicine -- Fiction"
+    ],
+    "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Horror",
+        "Movie Books",
+        "Precursors of Science Fiction"
+    ]
+}

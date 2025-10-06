@@ -1,0 +1,15 @@
+{
+    "id": 5197,
+    "title": "My Life — Volume 1",
+    "authors": [
+        "Wagner, Richard"
+    ],
+    "subjects": [
+        "Composers -- Germany -- Biography",
+        "Wagner, Richard, 1813-1883"
+    ],
+    "bookshelves": [
+        "Category: Biographies",
+        "Category: Music"
+    ]
+}

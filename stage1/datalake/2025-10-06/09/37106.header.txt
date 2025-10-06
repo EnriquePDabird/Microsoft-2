@@ -1,0 +1,24 @@
+{
+    "id": 37106,
+    "title": "Little Women; Or, Meg, Jo, Beth, and Amy",
+    "authors": [
+        "Alcott, Louisa May"
+    ],
+    "subjects": [
+        "Autobiographical fiction",
+        "Bildungsromans",
+        "Domestic fiction",
+        "Family life -- New England -- Fiction",
+        "March family (Fictitious characters) -- Fiction",
+        "Mothers and daughters -- Fiction",
+        "New England -- Fiction",
+        "Sisters -- Fiction",
+        "Young women -- Fiction"
+    ],
+    "bookshelves": [
+        "Category: American Literature",
+        "Category: Children & Young Adult Reading",
+        "Category: Classics of Literature",
+        "Category: Novels"
+    ]
+}

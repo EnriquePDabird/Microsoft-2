@@ -1,0 +1,23 @@
+{
+    "id": 4085,
+    "title": "The Adventures of Roderick Random",
+    "authors": [
+        "Smollett, T. (Tobias)"
+    ],
+    "subjects": [
+        "England -- Fiction",
+        "Impressment -- Fiction",
+        "Picaresque literature",
+        "Rogues and vagabonds -- Fiction",
+        "Sailors -- Fiction",
+        "Scots -- England -- Fiction",
+        "Sea stories",
+        "Warships -- Fiction"
+    ],
+    "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Novels",
+        "Historical Fiction"
+    ]
+}

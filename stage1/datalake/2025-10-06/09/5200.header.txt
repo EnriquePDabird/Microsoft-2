@@ -1,0 +1,17 @@
+{
+    "id": 5200,
+    "title": "Metamorphosis",
+    "authors": [
+        "Kafka, Franz"
+    ],
+    "subjects": [
+        "Metamorphosis -- Fiction",
+        "Psychological fiction"
+    ],
+    "bookshelves": [
+        "Category: Classics of Literature",
+        "Category: German Literature",
+        "Category: Novels",
+        "Horror"
+    ]
+}

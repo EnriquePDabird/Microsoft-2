@@ -1,0 +1,21 @@
+{
+    "id": 10554,
+    "title": "Right Ho, Jeeves",
+    "authors": [
+        "Wodehouse, P. G. (Pelham Grenville)"
+    ],
+    "subjects": [
+        "England -- Fiction",
+        "Humorous stories",
+        "Jeeves (Fictitious character) -- Fiction",
+        "Single men -- Fiction",
+        "Valets -- Fiction",
+        "Wooster, Bertie (Fictitious character) -- Fiction"
+    ],
+    "bookshelves": [
+        "Category: British Literature",
+        "Category: Humour",
+        "Category: Novels",
+        "Humor"
+    ]
+}

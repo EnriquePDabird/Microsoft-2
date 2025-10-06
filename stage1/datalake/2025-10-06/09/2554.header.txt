@@ -1,0 +1,23 @@
+{
+    "id": 2554,
+    "title": "Crime and Punishment",
+    "authors": [
+        "Dostoyevsky, Fyodor"
+    ],
+    "subjects": [
+        "Crime -- Psychological aspects -- Fiction",
+        "Detective and mystery stories",
+        "Murder -- Fiction",
+        "Psychological fiction",
+        "Saint Petersburg (Russia) -- Fiction"
+    ],
+    "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: Classics of Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Category: Russian Literature",
+        "Crime Fiction",
+        "Harvard Classics"
+    ]
+}

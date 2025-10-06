@@ -1,0 +1,26 @@
+{
+    "id": 1260,
+    "title": "Jane Eyre: An Autobiography",
+    "authors": [
+        "Brontë, Charlotte"
+    ],
+    "subjects": [
+        "Bildungsromans",
+        "Charity-schools -- Fiction",
+        "Country homes -- Fiction",
+        "England -- Fiction",
+        "Fathers and daughters -- Fiction",
+        "Governesses -- Fiction",
+        "Love stories",
+        "Married people -- Fiction",
+        "Mentally ill women -- Fiction",
+        "Orphans -- Fiction",
+        "Young women -- Fiction"
+    ],
+    "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Category: Romance"
+    ]
+}

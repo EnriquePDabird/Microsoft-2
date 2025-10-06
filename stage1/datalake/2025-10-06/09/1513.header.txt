@@ -1,0 +1,22 @@
+{
+    "id": 1513,
+    "title": "Romeo and Juliet",
+    "authors": [
+        "Shakespeare, William"
+    ],
+    "subjects": [
+        "Conflict of generations -- Drama",
+        "Juliet (Fictitious character) -- Drama",
+        "Romeo (Fictitious character) -- Drama",
+        "Tragedies (Drama)",
+        "Vendetta -- Drama",
+        "Verona (Italy) -- Drama",
+        "Youth -- Drama"
+    ],
+    "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas",
+        "Category: Romance"
+    ]
+}
