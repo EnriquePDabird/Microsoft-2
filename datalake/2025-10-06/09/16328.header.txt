@@ -1,0 +1,17 @@
+{
+    "id": 16328,
+    "title": "Beowulf: An Anglo-Saxon Epic Poem",
+    "authors": [],
+    "subjects": [
+        "Dragons -- Poetry",
+        "Epic poetry, English (Old)",
+        "Monsters -- Poetry"
+    ],
+    "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Mythology, Legends & Folklore",
+        "Category: Poetry",
+        "Poetry"
+    ]
+}

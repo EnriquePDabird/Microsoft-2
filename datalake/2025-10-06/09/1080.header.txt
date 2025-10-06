@@ -1,0 +1,17 @@
+{
+    "id": 1080,
+    "title": "A Modest Proposal: For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick",
+    "authors": [
+        "Swift, Jonathan"
+    ],
+    "subjects": [
+        "Ireland -- Politics and government -- 18th century -- Humor",
+        "Political satire, English",
+        "Religious satire, English"
+    ],
+    "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Essays, Letters & Speeches"
+    ]
+}

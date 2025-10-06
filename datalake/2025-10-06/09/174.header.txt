@@ -1,0 +1,24 @@
+{
+    "id": 174,
+    "title": "The Picture of Dorian Gray",
+    "authors": [
+        "Wilde, Oscar"
+    ],
+    "subjects": [
+        "Appearance (Philosophy) -- Fiction",
+        "Conduct of life -- Fiction",
+        "Didactic fiction",
+        "Great Britain -- History -- Victoria, 1837-1901 -- Fiction",
+        "London (England) -- History -- 1800-1950 -- Fiction",
+        "Paranormal fiction",
+        "Portraits -- Fiction",
+        "Supernatural -- Fiction"
+    ],
+    "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Gothic Fiction",
+        "Movie Books"
+    ]
+}

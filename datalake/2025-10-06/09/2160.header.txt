@@ -1,0 +1,22 @@
+{
+    "id": 2160,
+    "title": "The Expedition of Humphry Clinker",
+    "authors": [
+        "Smollett, T. (Tobias)"
+    ],
+    "subjects": [
+        "Epistolary fiction",
+        "Great Britain -- Fiction",
+        "Travelers -- Fiction"
+    ],
+    "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Humour",
+        "Category: Novels",
+        "Category: Travel Writing",
+        "Historical Fiction"
+    ]
+}

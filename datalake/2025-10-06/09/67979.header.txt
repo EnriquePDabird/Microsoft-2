@@ -1,0 +1,20 @@
+{
+    "id": 67979,
+    "title": "The Blue Castle: a novel",
+    "authors": [
+        "Montgomery, L. M. (Lucy Maud)"
+    ],
+    "subjects": [
+        "Canada -- History -- 1914-1945 -- Fiction",
+        "Choice (Psychology) -- Fiction",
+        "Love -- Fiction",
+        "Romance fiction",
+        "Self-actualization (Psychology) -- Fiction",
+        "Single women -- Fiction",
+        "Young adult fiction"
+    ],
+    "bookshelves": [
+        "Category: Novels",
+        "Category: Romance"
+    ]
+}

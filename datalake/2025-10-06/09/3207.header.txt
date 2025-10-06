@@ -1,0 +1,17 @@
+{
+    "id": 3207,
+    "title": "Leviathan",
+    "authors": [
+        "Hobbes, Thomas"
+    ],
+    "subjects": [
+        "Political science -- Early works to 1800",
+        "State, The -- Early works to 1800"
+    ],
+    "bookshelves": [
+        "Category: History - Early Modern (c. 1450-1750)",
+        "Category: Philosophy & Ethics",
+        "Harvard Classics",
+        "Politics"
+    ]
+}

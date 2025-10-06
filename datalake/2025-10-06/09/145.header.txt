@@ -1,0 +1,24 @@
+{
+    "id": 145,
+    "title": "Middlemarch",
+    "authors": [
+        "Eliot, George"
+    ],
+    "subjects": [
+        "Bildungsromans",
+        "City and town life -- Fiction",
+        "Didactic fiction",
+        "Domestic fiction",
+        "England -- Fiction",
+        "Love stories",
+        "Married people -- Fiction",
+        "Young women -- Fiction"
+    ],
+    "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Historical Fiction"
+    ]
+}

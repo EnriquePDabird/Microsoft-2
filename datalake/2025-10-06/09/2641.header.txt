@@ -1,0 +1,20 @@
+{
+    "id": 2641,
+    "title": "A Room with a View",
+    "authors": [
+        "Forster, E. M. (Edward Morgan)"
+    ],
+    "subjects": [
+        "British -- Italy -- Fiction",
+        "England -- Fiction",
+        "Florence (Italy) -- Fiction",
+        "Humorous stories",
+        "Young women -- Fiction"
+    ],
+    "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Romance",
+        "Italy"
+    ]
+}

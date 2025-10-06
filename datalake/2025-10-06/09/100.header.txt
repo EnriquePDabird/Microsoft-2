@@ -1,0 +1,17 @@
+{
+    "id": 100,
+    "title": "The Complete Works of William Shakespeare",
+    "authors": [
+        "Shakespeare, William"
+    ],
+    "subjects": [
+        "English drama -- Early modern and Elizabethan, 1500-1600"
+    ],
+    "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas",
+        "Category: Poetry",
+        "Plays"
+    ]
+}

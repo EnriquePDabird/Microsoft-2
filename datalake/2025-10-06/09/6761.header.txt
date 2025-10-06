@@ -1,0 +1,16 @@
+{
+    "id": 6761,
+    "title": "The Adventures of Ferdinand Count Fathom — Complete",
+    "authors": [
+        "Smollett, T. (Tobias)"
+    ],
+    "subjects": [
+        "Adventure stories",
+        "Gothic fiction"
+    ],
+    "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Novels"
+    ]
+}

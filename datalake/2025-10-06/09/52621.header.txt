@@ -1,0 +1,19 @@
+{
+    "id": 52621,
+    "title": "Society in America, Volume 1 (of 2)",
+    "authors": [
+        "Martineau, Harriet"
+    ],
+    "subjects": [
+        "United States -- Description and travel",
+        "United States -- Economic conditions -- To 1865",
+        "United States -- Politics and government -- 1815-1861",
+        "United States -- Social life and customs -- 1783-1865"
+    ],
+    "bookshelves": [
+        "Category: History - American",
+        "Category: Politics",
+        "Category: Sociology",
+        "Category: Travel Writing"
+    ]
+}

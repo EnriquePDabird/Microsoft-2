@@ -1,0 +1,16 @@
+{
+    "id": 33944,
+    "title": "How to Observe: Morals and Manners",
+    "authors": [
+        "Martineau, Harriet"
+    ],
+    "subjects": [
+        "Manners and customs",
+        "Observation (Psychology)",
+        "Social psychology -- Methodology"
+    ],
+    "bookshelves": [
+        "Category: How To ...",
+        "Category: Sociology"
+    ]
+}

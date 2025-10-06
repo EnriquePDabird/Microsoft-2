@@ -1,0 +1,19 @@
+{
+    "id": 64317,
+    "title": "The Great Gatsby",
+    "authors": [
+        "Fitzgerald, F. Scott (Francis Scott)"
+    ],
+    "subjects": [
+        "First loves -- Fiction",
+        "Long Island (N.Y.) -- Fiction",
+        "Married women -- Fiction",
+        "Psychological fiction",
+        "Rich people -- Fiction"
+    ],
+    "bookshelves": [
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels"
+    ]
+}

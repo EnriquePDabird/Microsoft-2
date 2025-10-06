@@ -1,0 +1,13 @@
+{
+    "id": 56517,
+    "title": "The Philosophy of Auguste Comte",
+    "authors": [
+        "Lévy-Bruhl, Lucien"
+    ],
+    "subjects": [
+        "Comte, Auguste, 1798-1857"
+    ],
+    "bookshelves": [
+        "Category: Philosophy & Ethics"
+    ]
+}
