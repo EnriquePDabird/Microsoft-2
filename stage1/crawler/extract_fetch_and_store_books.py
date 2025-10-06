@@ -2,9 +2,9 @@ import requests
 from datetime import datetime
 import json
 import os
-import extract_book_info
+from extract_book_info import extract_book_info
 
-def extract_fetch_and_store_books(data, headers, datalake_dir='datalake'):
+def extract_fetch_and_store_books(data, headers, datalake_dir='stage1/datalake'):
     """
     Extract book metadata, fetch book texts, and store metadata in a structured datalake directory.
 

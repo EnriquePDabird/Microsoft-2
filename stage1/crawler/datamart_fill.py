@@ -1,7 +1,7 @@
 import json
 import os
 import sqlite3
-import inverted_index_creation
+from inverted_index_creation import inverted_index_creation
 
 def datamart_fill(book_info, headers, stop_words):
     """
@@ -14,7 +14,7 @@ def datamart_fill(book_info, headers, stop_words):
         headers (dict): Headers for the API request.
         stop_words (set): Set of stop words to exclude from the index.
     """
-    datamart_dir = 'datamart'
+    datamart_dir = 'stage1/datamart'
     os.makedirs(datamart_dir, exist_ok=True)
 
     metadata_path = os.path.join(datamart_dir, 'metadata.sql')

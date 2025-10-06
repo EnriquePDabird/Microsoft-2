@@ -1,5 +1,5 @@
 import requests
-import controller
+from controller import controller
 
 def main(url = "https://project-gutenberg-free-books-api1.p.rapidapi.com/books"):
     headers = {
