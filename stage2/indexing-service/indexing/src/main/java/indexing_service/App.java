@@ -10,7 +10,7 @@ public class App {
             // Configurar Javalin para usar Gson
             config.jsonMapper(new JavalinGson(new com.google.gson.Gson())); 
             config.http.defaultContentType = "application/json"; // Establecer tipo de contenido por defecto [cite: 125]
-        }).start(7002); // El puerto para este servicio es 7002 [cite: 292]
+        }).start(7002); 
         
         // Registrar todos los endpoints
         app.post("/index/update/{book_id}", IndexController::updateIndex); // ¡ENDPOINT FALTANTE!

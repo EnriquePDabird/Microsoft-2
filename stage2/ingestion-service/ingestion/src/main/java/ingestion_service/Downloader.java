@@ -1,11 +1,9 @@
 package ingestion_service;
-
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class Downloader {
-
     /**
      * Descarga el contenido de texto plano desde un URL.
      * @param urlString El URL del archivo .txt del libro.

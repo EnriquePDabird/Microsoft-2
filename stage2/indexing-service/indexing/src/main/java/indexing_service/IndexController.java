@@ -15,7 +15,6 @@ public class IndexController {
         Files.writeString(Paths.get("datamart/inverted_index.json"), json);
         ctx.json(Map.of("status", "ok", "words", invertedIndex.size()));
     }
-
     public static void status(Context ctx) {
         ctx.json(Map.of("status", "ready"));
     }

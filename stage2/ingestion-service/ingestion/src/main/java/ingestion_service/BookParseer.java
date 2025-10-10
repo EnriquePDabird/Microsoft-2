@@ -1,12 +1,10 @@
 package ingestion_service;
-
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import java.util.Map;
 
 public class BookParser {
     private static final Gson GSON = new Gson();
-
     /**
      * Extrae el URL del texto plano (.txt) del JSON de Gutendex.
      * @param jsonResponse La cadena JSON de la respuesta de Gutendex.

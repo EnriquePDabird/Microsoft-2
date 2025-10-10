@@ -1,5 +1,4 @@
 package ingestion_service;
-
 import io.javalin.http.Context;
 import java.io.*;
 import java.net.*;
@@ -9,11 +8,6 @@ import java.time.format.DateTimeFormatter;
 import java.util.*;
 
 public class IngestionController {
-
-// ... imports ...
-
-public class IngestionController {
-
     public static void ingestBook(Context ctx) throws IOException {
         String bookId = ctx.pathParam("book_id");
         String apiUrl = "https://gutendex.com/books/" + bookId;
