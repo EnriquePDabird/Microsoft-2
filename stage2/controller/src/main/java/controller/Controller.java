@@ -46,6 +46,6 @@ public class Controller {
 
         Files.write(INDEXED_FILE, downloaded);
 
-        System.out.println("✅ Controller finished processing books.");
+        System.out.println("Controller finished processing books.");
     }
 }

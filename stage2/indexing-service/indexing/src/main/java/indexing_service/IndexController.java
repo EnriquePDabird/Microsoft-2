@@ -9,6 +9,7 @@ import com.google.gson.Gson;
 public class IndexController {
 
     public static void rebuildIndex(Context ctx) throws IOException {
+        // IndexController.rebuildIndex
         Map<String, Map<Integer, Integer>> invertedIndex = IndexBuilder.buildIndex("datalake");
         String json = new Gson().toJson(invertedIndex);
         Files.writeString(Paths.get("datamart/inverted_index.json"), json);
