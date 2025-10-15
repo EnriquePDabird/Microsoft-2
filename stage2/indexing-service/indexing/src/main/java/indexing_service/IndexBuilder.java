@@ -1,5 +1,4 @@
 package Microsoft-2-main.stage2.indexing-service.indexing.src.main.java.indexing_service;
-
 import java.io.*;
 import java.nio.file.*;
 import java.util.*;
